@@ -12,12 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0e1117)
 
 
-library(cowplot)
-
-ggdraw() + 
-  draw_image(![](https://github-readme-stats.vercel.app/api?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=0e1117), width = 0.4) + 
-  draw_image(![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0e1117), width = 0.4, x = 0.5)
-
 
 
 ---
