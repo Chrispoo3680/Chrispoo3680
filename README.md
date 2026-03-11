@@ -14,7 +14,7 @@
 
 | Image 1 | Image 2 |
 | :---: | :---: |
-| <img src="[image1.jpg](https://github-readme-stats.vercel.app/api?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=0e1117)" width="150" /> | <img src="[image2.jpg](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0e1117)" width="150" /> |
+| <img src="![](https://github-readme-stats.vercel.app/api?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=0e1117)" width="150" /> | <img src="[image2.jpg](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0e1117)" width="150" /> |
 
 
 ---
