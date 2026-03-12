@@ -11,10 +11,10 @@
 [![Chrispoo3680's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Chrispoo3680's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Chrispoo3680&theme=default&hide_border=true&include_all_commits=false&count_private=false)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Chrispoo3680&theme=midnight-purple&hide_border=true&background=00000000&ring=DA5B18&fire=EBA30A)](https://git.io/streak-stats)
+<br>
 [![Chrispoo3680's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrispoo3680&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Chrispoo3680's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrispoo3680&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chrispoo3680&theme=midnight-purple&hide_border=true&background=00000000&ring=EB4A4A&fire=EB8305)](https://git.io/streak-stats)
 
 
 
