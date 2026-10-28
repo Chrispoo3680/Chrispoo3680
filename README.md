@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on an AI chess engine called Checkers<br>🌱 I’m currently learning about machine learning and AI development using Pytorch<br>💬 Ask me about MTB<br>📫 How to reach me: homing pigeon<br>⚡ Fun fact: I love bread🍞
+# About Me:
+🔭 Currently working on a fitness and health analytics website called FitLineTraining <br>🌱 Currently learning about machine learning and AI development using Pytorch<br>💬 Ask me about MTB<br>📫 How to reach me: homing pigeon<br>⚡ Fun fact: I love bread🍞
 
 
 ## 🌐 Socials:
